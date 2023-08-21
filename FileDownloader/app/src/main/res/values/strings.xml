@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FileDownloader</string>
+    <string name="page_title">File Downloader</string>
+    <string name="filesize_hint">Select the file size:</string>
+    <string name="rtbar_hint">Please rate this application:</string>
+    <string name="filesizeselected_hint">File size selected:</string>
+    <string name="ratingselected_hint">Your rating:</string>
+    <string name="btndownload_title">Download File</string>
+
+
+</resources>
